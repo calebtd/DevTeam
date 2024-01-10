@@ -1,0 +1,1 @@
+let string = "This will be javascript eventually lol"
