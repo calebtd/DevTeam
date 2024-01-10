@@ -1,3 +1,0 @@
-# DevTeam
-
-Howdy Howdy Howdy
