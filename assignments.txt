@@ -1,0 +1,6 @@
+Emily - README
+Clay - HTML
+Vlad - gitignore
+Caleb - prep main, png
+Sophia - JS
+Kye - CSS
